@@ -1,0 +1,23 @@
+{
+  "name": "simple_rest_api",
+  "version": "1.0.0",
+  "description": "Try to create simple rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hutomosaktikartiko/Nodejs-Rest-API.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api"
+  ],
+  "author": "Hutomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hutomosaktikartiko/Nodejs-Rest-API/issues"
+  },
+  "homepage": "https://github.com/hutomosaktikartiko/Nodejs-Rest-API#readme"
+}
